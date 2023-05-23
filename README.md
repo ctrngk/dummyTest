@@ -1,5 +1,9 @@
 # dummyTest
-dummy 80M file size only (github has 100M size limit)
+dummy file only (github has 100M size limit)
+
+https://raw.githubusercontent.com/ctrngk/dummyTest/main/dummy500K
+
+https://raw.githubusercontent.com/ctrngk/dummyTest/main/dummy2M
 
 https://raw.githubusercontent.com/ctrngk/dummyTest/main/dummy10M
 
